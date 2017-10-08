@@ -12,7 +12,7 @@ I started learning Swift in January of 2017, I went through the [Hacking with Sw
 
 By March I started working on this app, an idea that I came up with on spring break in Florida. I worked on the app religiously until its completion in the first week of June.
 
-###Challenges
+### Challenges
 * My schedule as a senior in high school in varsity sports did not give me enough time in the evening to learn Swift from scratch. I decided to get up at 5 a.m. every morning before school so that I could prioritize my effective hours.
 * This was the first app that I developed start to finish on my own. 
 * I had never used photoshop or done any graphical design. I used a free online tool to make the logo and mostly system icons and views in the app.
